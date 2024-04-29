@@ -13,7 +13,7 @@
 
 [![linkedin - Follow](https://img.shields.io/badge/linkedin-Follow-white?logo=linkedin&logoColor=blue)](https://www.linkedin.com/in/rizki-desu-018858196)
 [![Facebook - Follow](https://img.shields.io/badge/Facebook-Follow-red?logo=facebook&logoColor=blue)](https://www.facebook.com/profile.php?id=100078904287291)
-[![Instagram - Subcribe](https://img.shields.io/badge/Instagram-Subcribe-red?logo=Instagram&logoColor=yelow)](https://www.instagram.com/sayap.kegelapan/)
+[![instagram - follow](https://img.shields.io/badge/instagram-follow-yelow?logo=instagram&logoColor=blue)](https://www.instagram.com/sayap.kegelapan/)
 [![youtube - Subcribe](https://img.shields.io/badge/youtube-Subcribe-red?logo=youtube&logoColor=white)](https://www.youtube.com/channel/UC7sf34Z7pVKucV-E6r0_DPA)
 
 
