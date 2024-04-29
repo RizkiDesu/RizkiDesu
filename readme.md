@@ -1,6 +1,8 @@
 <p align="center">
   <a href="" rel="noopener">
- <img width=200px height=200px src="assets\logo.png" alt="Project logo"></a>
+<img src="assets\gear.gif" width="10%">
+<img src="assets\coding2.gif" width="40%">  
+<img src="assets\gear.gif" width="10%">
  
 
 </p>
@@ -21,12 +23,6 @@
 
 </div>
 
----
-<div align="center">
-<img src="assets\gear.gif" width="10%">
-<img src="assets\coding2.gif" width="20%">  
-<img src="assets\gear.gif" width="10%">
-</div>
 
 ## ✍️ Authors <a name = "authors"></a>
 
