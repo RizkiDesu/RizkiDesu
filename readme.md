@@ -1,13 +1,10 @@
 <p align="center">
-  <a href="" rel="noopener">
 <img src="assets\gear.gif" width="10%">
 <img src="assets\coding2.gif" width="40%">  
 <img src="assets\gear.gif" width="10%">
- 
-
 </p>
 
-<h3 align="center">Rizki Desu Profile</h3>
+<h1 align="center">Rizki Desu Profile</h1>
 
 
 <div align="center">
