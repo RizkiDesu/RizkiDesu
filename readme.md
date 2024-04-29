@@ -32,3 +32,5 @@ See also the list of [repository](https://github.com/RizkiDesu?tab=repositories)
 ---
 
 <img src="assets\coding.gif" width="100%">
+
+---
